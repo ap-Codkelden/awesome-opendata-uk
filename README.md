@@ -62,4 +62,5 @@
 
 ## Канали у Telegram
 * [Команда Opendatabot](https://t.me/opendataukraine)
+* [Texty](https://t.me/textyorgua)
 * [Textura.in.ua](https://t.me/texturainua)
