@@ -25,9 +25,11 @@
 
 ## Проекти
 
-* [Prozorro. Публічні закупівлі](https://prozorro.gov.ua/)
-* [Єдиний веб-портал використання публічних коштів](https://spending.gov.ua/)
 * [Clarity Project](https://clarity-project.info/)
+* [OpenDataBot](https://opendatabot.com/)
+* [Prozorro. Публічні закупівлі](https://prozorro.gov.ua/)
+* [Декларації](https://declarations.com.ua/)
+* [Єдиний веб-портал використання публічних коштів](https://spending.gov.ua/)
 
 ## Дата журналистика
 * [Texty](http://texty.org.ua/)
