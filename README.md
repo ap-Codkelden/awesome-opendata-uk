@@ -1,7 +1,7 @@
 
 # Ukrainian awesome open data list  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Відкриті дані українською / Opendata resources in Uktainian
+Відкриті дані українською / Opendata resources in Ukrainian
 
 Цей перелік поповнює спільнота, для того, щоб змінити його, [відредагуйте](https://github.com/ap-Codkelden/awesome-opendata-uk/edit/master/README.md) цей файл та збережіть зміни, які будуть розглянуті.
 
