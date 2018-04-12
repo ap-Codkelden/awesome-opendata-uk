@@ -50,6 +50,9 @@
 * [Портал відкритих даних Львова](http://opendata.city-adm.lviv.ua/)
 * [Портал відкритих даних Чернівців](https://data.city.cv.ua/)
 
+### Портали відкритих даних ГО та НДО
+* [ДонорUA](https://donor.ua/opendata)
+
 
 ## Посібники
 * [Відкритий посібник з відкритих даних](http://socialdata.org.ua/manual/)
