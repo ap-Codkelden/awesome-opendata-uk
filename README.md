@@ -46,6 +46,7 @@
 * [Портал відкритих даних Дрогобича](https://opendata.drohobych-rada.gov.ua/)
 * [Портал відкритих даних Кривого Рогу](http://od.kr.gov.ua/)
 * [Портал відкритих даних Львова](http://opendata.city-adm.lviv.ua/)
+* [Портал відкритих даних Чернівців](https://data.city.cv.ua/)
 
 
 ## Посібники
