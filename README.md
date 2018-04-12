@@ -60,6 +60,7 @@
 ## Посібники
 * [Відкритий посібник з відкритих даних](http://socialdata.org.ua/manual/)
 * [Відкриті дані українських міст. Рекомендації щодо впровадження політик](https://danimist.org.ua/opendata_advice.html)
+* [Журналістика даних: Посібник](http://texty.org.ua/pg/book/newsmaker/read/40161?a_offset)
 
 
 ## Блоги та ресурси
