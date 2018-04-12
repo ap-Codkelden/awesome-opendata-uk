@@ -43,6 +43,8 @@
 ### Портали відкритих даних ЦОВ
 * [Верховна Рада України](http://data.rada.gov.ua/)
 * [ДФС України](http://sfs.gov.ua/datasets.php)
+* [Мінінфраструктури](https://mtu.gov.ua/content/plan-realizacii-zahodiv-spramovanih-na-zabezpechennya-dostupu-do-publichnoi-informacii-u-formi-vidkritih-danih.html)
+* [НКРЕКП](http://www.nerc.gov.ua/?id=21970)
 
 
 ### Портали відкритих даних ОМС
