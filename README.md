@@ -55,6 +55,8 @@
 
 ## Блоги та ресурси
 * [Блог Андрія Газіна](http://textura.in.ua/)
+* [Блог Євгена Василенка](http://www.datastory.org.ua/)
+* [Блог Andrii Emem](http://datatowel.in.ua/)
 
 ## Open Source
 * [Github репозиторії Андрія Газіна](http://github.com/andriy-gazin)
