@@ -27,7 +27,7 @@
 
 * [Prozorro. Публічні закупівлі](https://prozorro.gov.ua/)
 * [Єдиний веб-портал використання публічних коштів](https://spending.gov.ua/)
-* [Clarity Project](https://clarity-project.info/tenders)
+* [Clarity Project](https://clarity-project.info/)
 
 ## Дата журналистика
 * [Texty](http://texty.org.ua/)
