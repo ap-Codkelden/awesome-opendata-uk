@@ -45,6 +45,7 @@
 * [ДФС України](http://sfs.gov.ua/datasets.php)
 * [Мінінфраструктури](https://mtu.gov.ua/content/plan-realizacii-zahodiv-spramovanih-na-zabezpechennya-dostupu-do-publichnoi-informacii-u-formi-vidkritih-danih.html)
 * [НКРЕКП](http://www.nerc.gov.ua/?id=21970)
+* [УЦОЯО (Результати ЗНО та ДПА)](http://testportal.gov.ua/reg/)
 
 
 ### Портали відкритих даних ОМС
