@@ -17,7 +17,7 @@
 * [Блоги та ресурси](#блоги-та-ресурси)
 * [Open Source](#open-source)
 * [Facebook-спільноти](#facebook-спільноти)
-* [Канали у Telegram](#канали-у-telegram)
+* [Telegram-канали](#telegram-канали)
 
 
 ## Репозиторії
@@ -77,7 +77,7 @@
 * [Opendatabot: Все про відкриті дані та публічну інформацію](https://www.facebook.com/groups/198215887451921/)
 * [Відкриті дані: тренінги для громадських організацій і журналістів](https://www.facebook.com/groups/OpenDataUA/)
 
-## Канали у Telegram
+## Telegram-канали
 * [Команда Opendatabot](https://t.me/opendataukraine)
 * [Texty](https://t.me/textyorgua)
 * [Textura.in.ua](https://t.me/texturainua)
