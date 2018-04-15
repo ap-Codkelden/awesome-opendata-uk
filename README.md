@@ -54,6 +54,7 @@
 * [Портал відкритих даних Кривого Рогу](http://od.kr.gov.ua/)
 * [Портал відкритих даних Львова](http://opendata.city-adm.lviv.ua/)
 * [Портал відкритих даних Чернівців](https://data.city.cv.ua/)
+* [Портал відкритих даних Одеської області](http://data.ngorg.od.ua/uk/dataset)
 
 ### Портали відкритих даних ГО та НДО
 * [ДонорUA](https://donor.ua/opendata)
