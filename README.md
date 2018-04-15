@@ -45,8 +45,8 @@
 * [ДФС України](http://sfs.gov.ua/datasets.php)
 * [Мінінфраструктури](https://mtu.gov.ua/content/plan-realizacii-zahodiv-spramovanih-na-zabezpechennya-dostupu-do-publichnoi-informacii-u-formi-vidkritih-danih.html)
 * [НКРЕКП](http://www.nerc.gov.ua/?id=21970)
-* [УЦОЯО (результати ЗНО та ДПА)](http://testportal.gov.ua/reg/)
-* [Міністерство фінансів (відшкодування ПДВ)](https://www.minfin.gov.ua/reestr)
+* [УЦОЯО](http://testportal.gov.ua/reg/ "Результати ЗНО та ДПА")
+* [Міністерство фінансів](https://www.minfin.gov.ua/reestr "Реєстр відшкодування ПДВ")
 * [Державна судова адміністрація](http://dsa.court.gov.ua/dsa/inshe/oddata/)
 
 ### Портали відкритих даних ОМС
