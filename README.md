@@ -40,7 +40,7 @@
 ### Єдиний державний веб-портал відкритих даних
 * [Єдиний державний веб-портал відкритих даних](https://data.gov.ua)
 
-### Портали відкритих даних ЦОВ
+### Портали відкритих даних ЦОВ та інших органів
 * [Верховна Рада України](http://data.rada.gov.ua/)
 * [ДФС України](http://sfs.gov.ua/datasets.php)
 * [Мінінфраструктури](https://mtu.gov.ua/content/plan-realizacii-zahodiv-spramovanih-na-zabezpechennya-dostupu-do-publichnoi-informacii-u-formi-vidkritih-danih.html)
