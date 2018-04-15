@@ -50,11 +50,14 @@
 * [Державна судова адміністрація](http://dsa.court.gov.ua/dsa/inshe/oddata/)
 
 ### Портали відкритих даних ОМС
+* [Портал відкритих даних Дніпра](https://opendata.dniprorada.gov.ua/)
 * [Портал відкритих даних Дрогобича](https://opendata.drohobych-rada.gov.ua/)
 * [Портал відкритих даних Кривого Рогу](http://od.kr.gov.ua/)
 * [Портал відкритих даних Львова](http://opendata.city-adm.lviv.ua/)
 * [Портал відкритих даних Чернівців](https://data.city.cv.ua/)
-* [Портал відкритих даних Одеської області](http://data.ngorg.od.ua/uk/dataset)
+* [Портал відкритих даних Одеси та області](http://data.ngorg.od.ua/uk/dataset)
+* [Портал відкритих даних Полтави](http://odata.rada-poltava.gov.ua/)
+* [Портал відкритих даних Харкова](http://data.city.kharkov.ua/)
 
 ### Портали відкритих даних ГО та НДО
 * [ДонорUA](https://donor.ua/opendata)
