@@ -68,6 +68,7 @@
 * [Відкритий посібник з відкритих даних](http://socialdata.org.ua/manual/)
 * [Відкриті дані українських міст. Рекомендації щодо впровадження політик](https://danimist.org.ua/opendata_advice.html)
 * [Журналістика даних: Посібник](http://texty.org.ua/pg/book/newsmaker/read/40161?a_offset)
+* [Методологія рейтингування прозорості міст](https://issuu.com/tiukraine/docs/tutorial_web)
 
 
 ## Блоги та ресурси<a name="blogs"></a>
