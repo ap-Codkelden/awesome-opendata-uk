@@ -62,6 +62,7 @@
 ### Портали відкритих даних ГО та НДО
 * [ДонорUA](https://donor.ua/opendata)
 * [Рух ЧЕСНО API](http://www.chesno.org/api/ "Оцифровані декларації українських політиків та чиновників у форматі JSON")
+* [Opendatabot API](https://opendatabot.com/api)
 
 
 ## Посібники<a name="manuals"></a>
@@ -76,6 +77,7 @@
 * [Блог Андрія Газіна](http://textura.in.ua/)
 * [Блог Євгена Василенка](http://www.datastory.org.ua/)
 * [Блог Andrii Emem](http://datatowel.in.ua/)
+* [Блог Opendatabot](https://opendatabot.com/blog)
 
 ## Open Source
 * [Github репозиторії Андрія Газіна](http://github.com/andriy-gazin)
