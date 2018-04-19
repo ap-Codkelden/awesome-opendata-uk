@@ -63,6 +63,8 @@
 * [ДонорUA](https://donor.ua/opendata)
 * [Рух ЧЕСНО API](http://www.chesno.org/api/ "Оцифровані декларації українських політиків та чиновників у форматі JSON")
 * [Opendatabot API](https://opendatabot.com/api)
+* [Громадянська мережа ОПОРА](https://github.com/OPORA/electiondata "Виборчі дані")
+* [Rada4U (Вони голосують для Тебе) API](https://rada4you.org/help/data "Дані по голосуванням Верховної Ради")
 
 
 ## Посібники<a name="manuals"></a>
