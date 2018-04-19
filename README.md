@@ -59,7 +59,7 @@
 * [Портал відкритих даних Полтави](http://odata.rada-poltava.gov.ua/)
 * [Портал відкритих даних Харкова](http://data.city.kharkov.ua/)
 
-### Портали відкритих даних ГО та НДО
+### Відкриті дані ГО та НДО
 * [ДонорUA](https://donor.ua/opendata)
 * [Рух ЧЕСНО API](http://www.chesno.org/api/ "Оцифровані декларації українських політиків та чиновників у форматі JSON")
 * [Opendatabot API](https://opendatabot.com/api)
