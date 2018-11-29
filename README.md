@@ -55,6 +55,7 @@
 * [Дніпро](https://opendata.dniprorada.gov.ua)
 * [Долина (Івано-Франківська область)](http://opendata.dolyna.if.ua)
 * [Дрогобич](https://opendata.drohobych-rada.gov.ua)
+* [Дубно](https://ckan.dubno-adm.rv.ua/)
 * [Київ](https://data.kyivcity.gov.ua)
 * [Коломия](https://kolomyya.danimist.org.ua)
 * [Кременчук](https://opendata.kremen.gov.ua)
